@@ -1,0 +1,44 @@
+.wraper {
+	width: 600px;
+	height: 600px;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: 200px 200px 200px;
+
+}
+
+.r1-c1 {
+	background-color: #850000;
+}
+
+.r1-c2 {
+	background: url(../img/elephant.png);
+}
+
+.r1-c3 {
+	background-color: #850000;
+}
+
+.r2-c1 {
+	background: url(../img/hourse.png);
+}
+
+.r2-c2 {
+	background-color: #850000;
+}
+
+.r2-c3 {
+	background-color: white;
+}
+
+.r3-c1 {
+	background-color: #850000;
+}
+
+.r3-c2 {
+	background: url(../img/rook.png);
+}
+
+.r3-c3 {
+	background-color: #850000;
+}
